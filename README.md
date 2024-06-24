@@ -1,2 +1,2 @@
 # quiz-app
-[LIVE link]()
+[LIVE link](https://rapidquiz-pro.netlify.app/)
